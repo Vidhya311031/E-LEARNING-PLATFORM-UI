@@ -21,5 +21,9 @@ The platform is fully responsive, designed to function smoothly on desktops, tab
 
 This project is ideal for showcasing front-end development skills, UI/UX design, and layout structuring. It serves as a solid foundation for building more advanced features like login/signup functionality, quizzes, user dashboards, certificate generation, or integration with real-time databases and APIs. Whether you're learning front-end technologies or prototyping a full-fledged educational platform, this project demonstrates a strong understanding of core UI principles and responsive design tailored for digital learning environments.
 
+#OUTPUT
+
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/420c93bd-40c3-472e-a9d7-bbbc06a0683f" />
+
 
 
