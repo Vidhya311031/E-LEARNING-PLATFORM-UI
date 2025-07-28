@@ -24,6 +24,7 @@ This project is ideal for showcasing front-end development skills, UI/UX design,
 #OUTPUT
 
 <img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/420c93bd-40c3-472e-a9d7-bbbc06a0683f" />
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/75e37153-6059-4527-996b-d16090d51256" />
 
 
 
