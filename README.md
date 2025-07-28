@@ -33,6 +33,8 @@ This project is ideal for showcasing front-end development skills, UI/UX design,
 
 <img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/cfb0dbde-69a1-4fa1-a9af-17ded4433245" />
 
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/33fec55a-cbec-4271-a4be-df77f4c142ec" />
+
 
 
 
